@@ -1,11 +1,5 @@
-/*!
- * mymenu Responsive Mobile Menu v1.0 Based On slicknav
- * (c) 2018 Muhammad Rauf
- * licensed under MIT
- * www.raufgraphics.com
- * raufgraphics10@gmail.com
- */
-;
+
+
 (function ($, document, window) {
     var
         // default settings object.
